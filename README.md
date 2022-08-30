@@ -1,4 +1,4 @@
-## 🙎🏼‍♂️ Hi there!
+## 🙎🏼‍♂️ Seja Bem-vindo(a)!
 
 Eu sou Gustavo Mainchein,
 Desenvolvedor FullStack, com foco e especialidade em tecnologias javascript.
@@ -8,13 +8,13 @@ Desenvolvedor FullStack, com foco e especialidade em tecnologias javascript.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugamainchein&layout=compact&theme=tokyonight"/>
 </div>
 
-### ❤️ Let's get connected:
+### 💻 Entre em contato:
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Qdtxrtcw)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavosantos14/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gugamainchein/)
 
-### 🛠️ Technologies e Tools I use:
+### 🛠️ Tecnologias e ferramentas + utilizadas:
 
 <div>
 <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
