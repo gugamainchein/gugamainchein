@@ -1,7 +1,7 @@
 ## 🙎🏼‍♂️ Seja Bem-vindo(a)!
 
 Eu sou Gustavo Mainchein,
-Desenvolvedor Full Stack, com foco e especialidade em tecnologias javascript.
+Desenvolvedor Full Stack, com foco e especialidade em tecnologias javascript e arquiteturas AWS Serverless.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugamainchein&show_icons=true&theme=tokyonight"/>
