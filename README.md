@@ -1,20 +1,19 @@
-## 🙎🏼‍♂️ Seja Bem-vindo(a)!
+## 🙎🏼‍♂️ Welcome!
 
-Eu sou Gustavo Mainchein,
-Desenvolvedor Full Stack, com foco e especialidade em tecnologias javascript e arquiteturas AWS Serverless.
+I'm Gustavo Mainchein, Full Stack Developer, with focus and expertise in javascript technologies and AWS Serverless architectures.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugamainchein&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugamainchein&layout=compact&theme=tokyonight"/>
 </div>
 
-### 💻 Entre em contato:
+### 💻 Contact:
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Qdtxrtcw)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavosantos14/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gugamainchein/)
 
-### 🛠️ Tecnologias e ferramentas + utilizadas:
+### 🛠️ Most used technologies and tools:
 
 <div>
 <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
