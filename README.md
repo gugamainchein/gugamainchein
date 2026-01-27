@@ -66,7 +66,7 @@ I enjoy exchanging ideas, collaborating on ambitious projects, and building tech
 
 ### 💬 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gugamainchein/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gugamainchein/](https://www.linkedin.com/in/gustavomainchein/))
 
 ⭐ *If something here inspires you, feel free to fork, star, or reach out.*  
 **Let’s build the future — intelligently.** 🚀
