@@ -1,64 +1,94 @@
-# 🙎🏼‍♂️ Gustavo Mainchein
+# 👋 Gustavo Mainchein
 
-### 🚀 CTO | AI Engineer | Developer | Cloud Architect | Builder of Intelligent Systems
+### 🚀 AI Engineer | Cloud Architect | Product Builder  
+**Designing, building, and scaling intelligent systems in production**
 
-Welcome to my GitHub!  
-I’m **Gustavo Mainchein**, a technology leader and hands-on engineer passionate about **Artificial Intelligence, Cloud-Native Architectures, and Scalable Products**.
-
-Here you’ll find projects that blend **clean code, real-world business impact, and cutting-edge AI** — from serverless backends to generative AI agents and voice-driven applications.
+Welcome to my GitHub 👋  
+I’m **Gustavo Mainchein**, a hands-on technology leader focused on **Artificial Intelligence, Cloud-Native Architectures, and Scalable AI-Driven Products**.
 
 ---
 
-## 🧠 What I Do
+## 🧠 What I Build & Explore
 
-- 🤖 **Generative AI & LLMs** (Amazon Bedrock, Claude, RAG, Agents)
-- ☁️ **Cloud & Serverless Architectures** (AWS, Lambda, API Gateway, DynamoDB, S3)
-- 🧩 **AI Agents & Automation** (LangChain, Agent Core, Strands Agent)
-- 🎙️ **Voice AI** (Amazon Transcribe, Polly, real-time audio streaming)
-- 🏗️ **Scalable SaaS Platforms** (multi-tenant, secure, production-ready)
-- 📐 **Clean Code & DDD** (Python, TypeScript, Node.js)
+- 🤖 **Generative AI & LLM Systems**  
+  RAG pipelines, autonomous agents, prompt engineering and agentic AI applications
+
+- ☁️ **Cloud & Serverless Architectures**  
+  AWS, GCP, event-driven and highly scalable systems
+
+- 🧩 **AI Agents & Automation**  
+  LangChain, Strands Agents, Agent Core, multi-agent orchestration
+
+- 🎙️ **Voice AI & Real-Time Systems**  
+  Amazon Transcribe, Polly, streaming audio, conversational interfaces
+
+- 🏗️ **Production-Ready SaaS Platforms**  
+  Multi-tenant, secure, observable, and designed for scale
+
+- 📐 **Clean Code, DDD & Software Craftsmanship**  
+  Python, TypeScript, Node.js — readable, testable, maintainable systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Python • TypeScript • JavaScript • Java • .NET Core • SQL
+### 💻 Languages
+Python • TypeScript • JavaScript • Java • .NET Core • SQL
 
-**Cloud & AI**
-- AWS
-- GCP
-- Claude, Bedrock, Gemini and Others
-- Vector Databases
+### ☁️ Cloud & AI
+- AWS & GCP  
+- Amazon Bedrock, Claude, Gemini  
+- Vector Databases & RAG architectures
 
-**Frontend**
-- React • Vite • Angular • HTML • CSS • JS
+### 🎨 Frontend
+React • Vite • Angular • HTML • CSS • Vanilla JS
 
-**Architecture**
-- Serverless • Event-Driven • Microservices
-- RAG • Streaming APIs • Real-time Systems
+### 🧩 Architecture Patterns
+Serverless • Event-Driven • Microservices  
+RAG • Streaming APIs • Real-Time Systems
 
 ---
 
 ## 🌍 Current Focus
 
-- Building **AI-first products** for education, finance, enterprise and others
-- Designing **autonomous AI agents** that reason and act
-- Creating **human-like voice interfaces**
-- Scaling platforms with **security, governance, and performance in mind**
+- Building **AI-first products** for **education, finance, and enterprise**
+- Designing **autonomous AI agents** that reason, decide, and act
+- Creating **human-like voice interfaces** for natural interaction
+- Scaling platforms with **security, governance, and performance** as first-class concerns
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gugamainchein&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugamainchein&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gugamainchein&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🤝 Let’s Connect
 
-I love exchanging ideas, collaborating on bold projects, and building meaningful technology.
+I enjoy exchanging ideas, collaborating on ambitious projects, and building technology that actually matters.
 
-### 💻 Contact
+### 💬 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavosantos14/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gugamainchein/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gugamainchein/)
 
 ---
 
-⭐ *If something here inspires you, feel free to fork, star, or reach out.  
-Let’s build the future together.*
+⭐ *If something here inspires you, feel free to fork, star, or reach out.*  
+**Let’s build the future — intelligently.** 🚀
