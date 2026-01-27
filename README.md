@@ -1,7 +1,6 @@
 # 👋 Gustavo Mainchein
 
 ### 🚀 AI Engineer | Cloud Architect | Product Builder  
-**Designing, building, and scaling intelligent systems in production**
 
 Welcome to my GitHub 👋  
 
