@@ -60,14 +60,6 @@ RAG • Streaming APIs • Real-Time Systems
 
 </div>
 
-## 🔥 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gugamainchein&theme=tokyo-night&hide_border=true" />
-
-</div>
-
 ## 🤝 Let’s Connect
 
 I enjoy exchanging ideas, collaborating on ambitious projects, and building technology that actually matters.
