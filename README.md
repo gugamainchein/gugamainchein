@@ -6,8 +6,6 @@
 Welcome to my GitHub 👋  
 I’m **Gustavo Mainchein**, a hands-on technology leader focused on **Artificial Intelligence, Cloud-Native Architectures, and Scalable AI-Driven Products**.
 
----
-
 ## 🧠 What I Build & Explore
 
 - 🤖 **Generative AI & LLM Systems**  
@@ -28,8 +26,6 @@ I’m **Gustavo Mainchein**, a hands-on technology leader focused on **Artificia
 - 📐 **Clean Code, DDD & Software Craftsmanship**  
   Python, TypeScript, Node.js — readable, testable, maintainable systems
 
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -47,16 +43,12 @@ React • Vite • Angular • HTML • CSS • Vanilla JS
 Serverless • Event-Driven • Microservices  
 RAG • Streaming APIs • Real-Time Systems
 
----
-
 ## 🌍 Current Focus
 
 - Building **AI-first products** for **education, finance, and enterprise**
 - Designing **autonomous AI agents** that reason, decide, and act
 - Creating **human-like voice interfaces** for natural interaction
 - Scaling platforms with **security, governance, and performance** as first-class concerns
-
----
 
 ## 📊 GitHub Stats
 
@@ -68,8 +60,6 @@ RAG • Streaming APIs • Real-Time Systems
 
 </div>
 
----
-
 ## 🔥 Contribution Activity
 
 <div align="center">
@@ -78,8 +68,6 @@ RAG • Streaming APIs • Real-Time Systems
 
 </div>
 
----
-
 ## 🤝 Let’s Connect
 
 I enjoy exchanging ideas, collaborating on ambitious projects, and building technology that actually matters.
@@ -87,8 +75,6 @@ I enjoy exchanging ideas, collaborating on ambitious projects, and building tech
 ### 💬 Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gugamainchein/)
-
----
 
 ⭐ *If something here inspires you, feel free to fork, star, or reach out.*  
 **Let’s build the future — intelligently.** 🚀
